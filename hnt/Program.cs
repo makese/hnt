@@ -14,6 +14,7 @@ namespace hnt
             int num = int.Parse(Console.ReadLine());
             program.hanoi(num, 'A', 'B', 'C');
             Console.Read();
+            Console.Read();
         }
         void hanoi(int n, char a, char b, char c)
         {
