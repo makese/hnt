@@ -7,6 +7,10 @@ namespace hnt
 {
     class Program
     {
+        /// <summary>
+        /// 主函数
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             Program program = new Program();
